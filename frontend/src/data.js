@@ -7,7 +7,6 @@ export const profile = {
   location: "Sambhaji Nagar, Maharashtra · Bengaluru",
   links: {
     github: "https://github.com/pradipy865",
-    leetcode: "https://leetcode.com/u/pradipdy98/",
     codeforces: "https://codeforces.com/profile/YOUR_CODEFORCES",
     resume: "/resume.pdf", // put your PDF in /public/resume.pdf
   },
